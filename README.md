@@ -21,9 +21,9 @@ This repository contains data and code used for the research.
 
 *lvsl.py*
 
-res2_df.csv - ROC AUC value vs. neighboor count (NN): `NN;ROC_AUC`
+* res2_df.csv - ROC AUC value vs. neighboor count (NN): `NN;ROC_AUC`
 
-Vs_low_layer_map_ext_class_nn4_v10.csv - Low S-velocity layer presence map
+* Vs_low_layer_map_ext_class_nn4_v10.csv - Low S-velocity layer presence map
 
 # 3D-Code #
 
