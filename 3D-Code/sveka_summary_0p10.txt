@@ -1,0 +1,6 @@
+Number of stations 23
+region coordinate rectangle corners, mean lat (lat/lon):
+ [60 22],[67 32] 63.5
+ Flat axes length (x,y): 457.3858 671.2814
+Depth min,max: -0.0 70.0
+Depth step: 0.1 (761 points per station)All the points: 17503
