@@ -1,4 +1,4 @@
-# Macrofracturing in the Fennoscandia upper crust as evidence of the last deglaciation derived from machine learning analysis of the receiver function data
+# Crust Macrofracturing as Evidence of Last Deglaciation
 
 This repository contains data and code used for the research.
 
